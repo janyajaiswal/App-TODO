@@ -75,10 +75,9 @@ Handles app colors, shapes, and typography.
 Ensures a consistent visual style across the app.
 
 ----Screenshots ----
-<img width="432" height="826" alt="Screenshot 2025-10-04 at 3 53 00 PM" src="https://github.com/user-attachments/assets/087c53b0-80b8-457c-b162-9bc503082e27" />
 
+<img width="432" height="826" alt="Screenshot 2025-10-04 at 3 53 00 PM" src="https://github.com/user-attachments/assets/087c53b0-80b8-457c-b162-9bc503082e27" />
 
 Author:
 Janya Jaiswal
 
-<img width="451" height="686" alt="image" src="https://github.com/user-attachments/assets/27a3eff1-fb80-4eea-b840-1a7e6d572ff5" />
