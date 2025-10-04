@@ -43,13 +43,13 @@ actual state (list of tasks) is managed in the parent (TodoListScreen).
 
 ---- File Descriptions ----
 
-MainActivity.kt
+•	Mainactivity.kt
 
 Entry point of the app.
 
 Sets up the Compose theme and loads the main screen (TodoListScreen).
 
-TodoListScreen.kt
+•	TodoListScreen.kt
 
 Main UI screen.
 
@@ -57,7 +57,7 @@ Handles adding, displaying, and managing the list of active and completed tasks.
 
 Uses remember and rememberSaveable to preserve state.
 
-TodoItemRow.kt
+•	TodoItemRow.kt
 
 UI component for displaying each task.
 
@@ -65,11 +65,11 @@ Contains a checkbox (to mark complete/incomplete) and delete button.
 
 Uses color change when a task is completed.
 
-TodoItem.kt
+•	TodoItem.kt
 
 Simple data class that defines what a task looks like (id, title, completion state).
 
-ui/theme folder
+•	ui/theme folder
 
 Handles app colors, shapes, and typography.
 Ensures a consistent visual style across the app.
